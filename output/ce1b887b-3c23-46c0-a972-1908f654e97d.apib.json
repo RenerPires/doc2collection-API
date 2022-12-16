@@ -1,0 +1,1612 @@
+{
+    "/lotes-de-validacoes - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-validacoes",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_validacoes.monitoramento",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_validacoes.aguardar_documentos",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_validacoes.disponibilizacao_arquivo_retorno",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_validacoes.buscar_documentos",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_validacoes.veiculo.id",
+            "nodevalue": "aute labore Lorem reprehenderit cillum",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "non__",
+            "nodevalue": 93915116.03859195,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "dolore_72",
+            "nodevalue": -52660879.86070942,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "sintbeb",
+            "nodevalue": -95283215.65918602,
+            "nodetype": "number"
+        }
+    ],
+    "/lotes-de-validacoes/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-validacoes/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-validacoes/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-validacoes/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-validacoes/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-validacoes/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-validacoes/{lote_id}/download - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-validacoes/{lote_id}/download",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/avaliacoes-em-lote - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/avaliacoes-em-lote",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "tipo",
+            "nodevalue": "Lorem",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "monitoramento",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "veiculo.id",
+            "nodevalue": "sed in anim proident ad",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "disponibilizacao_arquivo_retorno",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/validacoes/busca-de-validacoes-duplicata-mercantil - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/busca-de-validacoes-duplicata-mercantil",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_validacao_duplicata_mercantil.veiculo.id",
+            "nodevalue": "commodo nostrud sunt labore ex",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_validacao_duplicata_mercantil.veiculo.proident93_",
+            "nodevalue": "occaecat deserunt et incididunt veniam",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_validacao_duplicata_mercantil.paginacao.por_pagina",
+            "nodevalue": 6963556.289583877,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_validacao_duplicata_mercantil.paginacao.pagina",
+            "nodevalue": -65277838.05397785,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_validacao_duplicata_mercantil.status_de_processamento",
+            "nodevalue": "pendente",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "nisi_c90",
+            "nodevalue": 32535711,
+            "nodetype": "number"
+        }
+    ],
+    "/validacoes/{validacao_id}/documento-fiscal - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/{validacao_id}/documento-fiscal",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/validacoes/{validacao_id}/xml-nfe - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/{validacao_id}/xml-nfe",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/validacoes/{validacao_id}/partes - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/{validacao_id}/partes",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/validacoes/{validacao_id}/constatacoes - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/{validacao_id}/constatacoes",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/validacoes/{validacao_id}/eventos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/validacoes/{validacao_id}/eventos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/recebiveis/VAL-{recebivel_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/recebiveis/VAL-{recebivel_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-registros - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-registros",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_registros.aguardar_documentos",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_registros.veiculo.id",
+            "nodevalue": "incididunt exercitation reprehenderit",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "lote_de_registros.buscar_documentos",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "esseb12",
+            "nodevalue": "Ut laboris",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "id_cc7",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "dolore_66",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/lotes-de-registros/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-registros/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-registros/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-registros/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-registros/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-registros/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/registros/busca-de-registros-duplicata-mercantil - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/registros/busca-de-registros-duplicata-mercantil",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.status_autorizacao",
+            "nodevalue": "autorizado",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.status_de_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.veiculo.id",
+            "nodevalue": "in commodo",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.publicidade",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.paginacao.pagina",
+            "nodevalue": -50001856.95249706,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.paginacao.por_pagina",
+            "nodevalue": 43916601.69220239,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_registro_duplicata_mercantil.status",
+            "nodevalue": "cancelado",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "sint7a",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "reprehenderit_b",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        }
+    ],
+    "/registros/{registro_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/registros/{registro_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/registros/{registro_id}/eventos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/registros/{registro_id}/eventos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_autorizacoes_de_registro.deserunt2cf",
+            "nodevalue": 40153565.04106483,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "lote_de_autorizacoes_de_registro.tempor07",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_autorizacoes_de_registro.proident_bc3",
+            "nodevalue": -49769682.84546168,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "lote_de_autorizacoes_de_registro.enim_a",
+            "nodevalue": -21629540.95076941,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "utb3d",
+            "nodevalue": -63511054,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "velita4",
+            "nodevalue": "aliqua consequat in do",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "officia6",
+            "nodevalue": -22837874.708514333,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "officia_ead",
+            "nodevalue": -22535170.138366833,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "consectetur_1",
+            "nodevalue": "velit enim aute dolor sit",
+            "nodetype": "string"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_recusas_de_registro.laboris_9cb",
+            "nodevalue": "sunt cupidatat est culpa incididunt",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "eiusmod19e",
+            "nodevalue": "sit in voluptate",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "dolore3",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "in29_",
+            "nodevalue": "ad est in",
+            "nodetype": "string"
+        }
+    ],
+    "/lotes-de-recusas-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/operacoes/busca-de-autorizacoes-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-autorizacoes-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_registro.status_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_registro.paginacao.pagina",
+            "nodevalue": -86811329.05323125,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_registro.paginacao.por_pagina",
+            "nodevalue": -66364203.67407094,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "culpa7",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        }
+    ],
+    "/operacoes/busca-de-recusas-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-recusas-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_recusas_de_registro.paginacao.por_pagina",
+            "nodevalue": 30180392.667765602,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_recusas_de_registro.paginacao.pagina",
+            "nodevalue": 63010479.23412785,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_recusas_de_registro.status_processamento",
+            "nodevalue": "com_erro",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "exercitation_a",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/lotes-de-conclusoes-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-conclusoes-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "laborisd",
+            "nodevalue": "in Excepteur sed reprehenderit",
+            "nodetype": "string"
+        }
+    ],
+    "/lotes-de-conclusoes-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-conclusoes-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-conclusoes-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-conclusoes-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-conclusoes-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-conclusoes-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-atualizacoes-nao-conclusivas-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-nao-conclusivas-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_nao_conclusivas_de_registro.sunt4b",
+            "nodevalue": -10332310,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_nao_conclusivas_de_registro.nulla1",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_nao_conclusivas_de_registro.Excepteurdbd",
+            "nodevalue": 90605320.40732202,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "consequat_f",
+            "nodevalue": "ex labore cupidatat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "minim_3ce",
+            "nodevalue": "nulla exercitation",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "pariatur_28",
+            "nodevalue": "dolor voluptate mollit ipsum",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "est_e",
+            "nodevalue": "dolor cupidatat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "deserunt0",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-nao-conclusivas-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-cancelamentos-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-cancelamentos-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-cancelamentos-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-cancelamentos-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-cancelamentos-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-cancelamentos-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-cancelamentos-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-cancelamentos-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-transferencias-de-titularidade - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-transferencias-de-titularidade",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_transferencias_de_titularidade.veiculo_cnpj",
+            "nodevalue": "et dolor",
+            "nodetype": "string"
+        }
+    ],
+    "/lotes-de-transferencias-de-titularidade/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-transferencias-de-titularidade/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-transferencias-de-titularidade/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-transferencias-de-titularidade/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-transferencias-de-titularidade/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-transferencias-de-titularidade/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacao-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacao-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "eu_4",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacao-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-atualizacao-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-atualizacao-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_recusas_de_atualizacao_de_registro.ipsuma",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "lote_de_recusas_de_atualizacao_de_registro.cupidatat_42",
+            "nodevalue": -81484485.03822121,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "labore_a4",
+            "nodevalue": 93015308,
+            "nodetype": "number"
+        }
+    ],
+    "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-recusas-de-atualizacao-de-registro/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/operacoes/busca-de-conclusoes-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-conclusoes-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_conclusoes_de_registro.paginacao.por_pagina",
+            "nodevalue": -10454002.780372739,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_conclusoes_de_registro.paginacao.pagina",
+            "nodevalue": -12932825.640556484,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_conclusoes_de_registro.status_autorizacao",
+            "nodevalue": "recusado",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_conclusoes_de_registro.status_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "pariatur_0",
+            "nodevalue": "Excepteur",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "elit_8_",
+            "nodevalue": -27060695.00000696,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "ea60",
+            "nodevalue": "Excepteur",
+            "nodetype": "string"
+        }
+    ],
+    "/operacoes/busca-de-atualizacoes-nao-conclusivas-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-atualizacoes-nao-conclusivas-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_atualizacoes_nao_conclusivas_de_registro.status_processamento",
+            "nodevalue": "concluido",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_atualizacoes_nao_conclusivas_de_registro.status_autorizacao",
+            "nodevalue": "autorizado",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_atualizacoes_nao_conclusivas_de_registro.paginacao.por_pagina",
+            "nodevalue": 75930791.09747362,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_atualizacoes_nao_conclusivas_de_registro.paginacao.pagina",
+            "nodevalue": -94476512.02834897,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "eud9",
+            "nodevalue": 50426785.93482366,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "sunt62",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/operacoes/busca-de-cancelamentos-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-cancelamentos-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_cancelamentos_de_registro.paginacao.por_pagina",
+            "nodevalue": -4868243.317953929,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_cancelamentos_de_registro.paginacao.pagina",
+            "nodevalue": -11040361.540465146,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_cancelamentos_de_registro.status_processamento",
+            "nodevalue": "com_erro",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_cancelamentos_de_registro.status_autorizacao",
+            "nodevalue": "autorizado",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "irure__d",
+            "nodevalue": -27285358,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "dolore_574",
+            "nodevalue": 75267169.45526841,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "ut85",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        }
+    ],
+    "/operacoes/busca-de-transferencias-de-titularidade - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-transferencias-de-titularidade",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_transferencias_de_titularidade.status_processamento",
+            "nodevalue": "concluido",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "eu_81",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "enim7",
+            "nodevalue": 28017879,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "deserunt52",
+            "nodevalue": -12481866.676807612,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "minimd",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "Ut_3",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/operacoes/busca-de-autorizacoes-de-atualizacao-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-autorizacoes-de-atualizacao-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacao_de_registro.status_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacao_de_registro.paginacao.por_pagina",
+            "nodevalue": -53636654.18317427,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacao_de_registro.paginacao.pagina",
+            "nodevalue": 80380572.80470884,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "officia_af5",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        },
+        {
+            "nodename": "in43b",
+            "nodevalue": -15053955,
+            "nodetype": "number"
+        }
+    ],
+    "/operacoes/busca-de-recusas-de-atualizacao-de-registro - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-recusas-de-atualizacao-de-registro",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_recusas_de_atualizacao_de_registro.status_processamento",
+            "nodevalue": "com_erro",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_recusas_de_atualizacao_de_registro.paginacao.pagina",
+            "nodevalue": 85640312.30936128,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_recusas_de_atualizacao_de_registro.paginacao.por_pagina",
+            "nodevalue": 65822454.35306135,
+            "nodetype": "number"
+        }
+    ],
+    "/registros/busca-de-constatacoes-de-validacoes-de-atualizacao - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/registros/busca-de-constatacoes-de-validacoes-de-atualizacao",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.registro_id",
+            "nodevalue": "nisi",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.paginacao.pagina",
+            "nodevalue": -34210079.09339644,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.paginacao.por_pagina",
+            "nodevalue": -66890755.59183504,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.algoritmo.dimensao",
+            "nodevalue": "fiscal",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.algoritmo.escopo",
+            "nodevalue": "recebivel",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.algoritmo.tipo",
+            "nodevalue": "magna id sed culpa",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.concluido_depois_de",
+            "nodevalue": "et cupidatat nulla consectetur fugiat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_de_constatacoes_de_validacoes_de_atualizacao.concluido_antes_de",
+            "nodevalue": "proident sit Lorem dolor et",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "animfcb",
+            "nodevalue": "deserunt commodo",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "est_17",
+            "nodevalue": "ea dolor nulla adipisicing non",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "eu535",
+            "nodevalue": -45163991.36780023,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "dolor_36",
+            "nodevalue": "aliquip aliqua laborum eiusmod",
+            "nodetype": "string"
+        }
+    ],
+    "/lotes-de-atualizacoes-de-operacao-de-uso - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-de-operacao-de-uso",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_de_operacao_de_uso.sed0",
+            "nodevalue": "sit laboris aliqua",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_de_operacao_de_uso.aliqua77a",
+            "nodevalue": 5740590.625443518,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "lote_de_atualizacoes_de_operacao_de_uso.sedb7_",
+            "nodevalue": "id esse quis",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "est436",
+            "nodevalue": 75675221,
+            "nodetype": "number"
+        }
+    ],
+    "/lotes-de-atualizacoes-de-operacao-de-uso/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-de-operacao-de-uso/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-atualizacoes-de-operacao-de-uso//{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-de-operacao-de-uso//{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/operacoes/busca-de-atualizacoes-de-operacao-de-uso - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-atualizacoes-de-operacao-de-uso",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_atualizacoes_de_operacao_de_uso.status_autorizacao",
+            "nodevalue": "pendente",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_atualizacoes_de_operacao_de_uso.status_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "busca_atualizacoes_de_operacao_de_uso.paginacao.pagina",
+            "nodevalue": -26971970.44585824,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_atualizacoes_de_operacao_de_uso.paginacao.por_pagina",
+            "nodevalue": 92814693.50122973,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "veniam_b7",
+            "nodevalue": -56239840.028332114,
+            "nodetype": "number"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_autorizacoes_de_atualizacao_de_operacao_de_uso.ad_0f",
+            "nodevalue": "sunt Excepteur veniam",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "Loreme4",
+            "nodevalue": "Ut esse ex adipisicing",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "doloree5",
+            "nodevalue": -14974213,
+            "nodetype": "number"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id} - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id}",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-invalidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-invalidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-recebidos - get": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-autorizacoes-de-atualizacoes-de-operacao-de-uso/{lote_id}/itens-recebidos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "get",
+            "nodetype": "method"
+        }
+    ],
+    "/operacoes/busca-de-autorizacoes-de-atualizacoes-de-operacao-de-uso - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/operacoes/busca-de-autorizacoes-de-atualizacoes-de-operacao-de-uso",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacoes_de_operacao_de_uso.paginacao.pagina",
+            "nodevalue": -16248578.778806612,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacoes_de_operacao_de_uso.paginacao.por_pagina",
+            "nodevalue": 20349922.253089532,
+            "nodetype": "number"
+        },
+        {
+            "nodename": "busca_autorizacoes_de_atualizacoes_de_operacao_de_uso.status_processamento",
+            "nodevalue": "processando",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "occaecat_68",
+            "nodevalue": true,
+            "nodetype": "boolean"
+        }
+    ],
+    "/lotes-de-documentos - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/lotes-de-documentos",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "lote_de_documentos.veiculo.id",
+            "nodevalue": "proident sint adipisicing occaecat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "lote_de_documentos.veiculo.exercitation4",
+            "nodevalue": "pariatur sunt in laborum",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "iruref",
+            "nodevalue": false,
+            "nodetype": "boolean"
+        }
+    ],
+    "/nova-conciliacao/consulta-conciliacao - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/nova-conciliacao/consulta-conciliacao",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "id_carteira",
+            "nodevalue": "id quis cupidatat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "periodo",
+            "nodevalue": "dolor enim anim aliqua in",
+            "nodetype": "string"
+        }
+    ],
+    "/nova-conciliacao/consulta-conciliacao-status - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/nova-conciliacao/consulta-conciliacao-status",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "id_carteira",
+            "nodevalue": "in",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "periodo",
+            "nodevalue": "pariatur",
+            "nodetype": "string"
+        }
+    ],
+    "/nova-conciliacao/validar-conciliacao - post": [
+        {
+            "nodename": "url",
+            "nodevalue": "/nova-conciliacao/validar-conciliacao",
+            "nodetype": "url"
+        },
+        {
+            "nodename": "método",
+            "nodevalue": "post",
+            "nodetype": "method"
+        },
+        {
+            "nodename": "total_registro",
+            "nodevalue": "aliqua",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "id_carteira",
+            "nodevalue": "mollit",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "periodo",
+            "nodevalue": "culpa voluptate aliquip et fugiat",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "quantidade",
+            "nodevalue": "pariatur consequat ea enim",
+            "nodetype": "string"
+        },
+        {
+            "nodename": "total_atualizacoes",
+            "nodevalue": "in ex exercitation eiusmod",
+            "nodetype": "string"
+        }
+    ]
+}
